@@ -1,5 +1,5 @@
 {
-  "name": "flix-tech/confluent-schema-registry-api",
+  "name": "arekgorecki/confluent-schema-registry-api",
   "description": "A PHP 7.0+ library to consume the Confluent Schema Registry REST API.",
   "minimum-stability": "stable",
   "type": "library",
